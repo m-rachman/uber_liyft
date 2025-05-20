@@ -1,6 +1,7 @@
 import streamlit as st
 import eda
 import models
+#test
 
 
 page = st.sidebar.selectbox(label='Select Page:', options=['Home Page', 'Exploration Data Analysis', 'Model Prediksi'])
